@@ -71,6 +71,16 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 - Optional: Links to the published maps stored in the [**docs/index.md -file**](docs/index.md) (problem 3)
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
+
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- Bryan R. Vallejo
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10 / 10.0 
+### Comments
+- Nice static map. I got curious about deprivation index. Good to see a map from a different place. :) Well formated
+- Good interactive map. Nice how you included the heat map of bike parking over bike lanes. It gives a good context.
   
   
   
